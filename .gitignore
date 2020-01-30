@@ -3,4 +3,3 @@
 .sbt/1.0/swoval-jni/
 .scala_history
 mysql/*
-mysql/mysql_data/*
